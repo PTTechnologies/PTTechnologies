@@ -1,4 +1,4 @@
-# Hello, I'm Chevaune Cooper
+# Hello, I'm Chevaune 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I  am a Cyber Security Researcher and Network Security Analyst. I am passionate about Technology and have a great desire to learn and grow as well as a dedication to solving complex problems.
