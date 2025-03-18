@@ -15,10 +15,8 @@ My journey in Technology Research has led me to develop a passion for cybersecur
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Active Directory                              | <a href="https://github.com/PTTechnologies/Active-Directory-Home-Lab.git">Active Directory HomeLab</a>|
+| Active Directory                              | <a href="https://github.com/PTTechnologies/Active-Directory-Home-Lab.git">Active Directory Home Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
 
 
 ### Network
@@ -50,7 +48,3 @@ My journey in Technology Research has led me to develop a passion for cybersecur
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Active Directory
-- SOC Automation Project
-- IT Helpdesk Support
